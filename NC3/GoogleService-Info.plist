@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>997928861698-9u4chfa1dj9v8706sda3evulc0e3ou8q.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.997928861698-9u4chfa1dj9v8706sda3evulc0e3ou8q</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBSwNT3SgAywpAB939ill0hmj8TzdHOTr4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>997928861698</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sherwinyang.NC3</string>
+	<key>PROJECT_ID</key>
+	<string>nano-challenge-3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nano-challenge-3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:997928861698:ios:51eb7eff63ad08afa2a71b</string>
+	<key>DATABASE_URL</key>
+	<string>https://nano-challenge-3.firebaseio.com</string>
+</dict>
+</plist>
